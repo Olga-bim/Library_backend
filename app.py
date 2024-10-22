@@ -11,7 +11,7 @@ from loan import Loan, LoanType
 import os
 
 # Установите путь к шаблонам
-template_folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'frontend', 'templates')
+template_folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'frontend')
 print(template_folder_path)  # Проверка пути
 
 import unittest
@@ -159,7 +159,7 @@ def create_initial_data():
 @app.route('/')
 def index():
     log_function_time("index")
-    return render_template('index.html')  # Flask будет искать в 'frontend/templates/index.html'
+    return render_template('index.html')  
 
 @app.route('/home')
 def home():
