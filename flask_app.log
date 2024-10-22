@@ -1,0 +1,178 @@
+2024-10-22 12:59:53,669 - DEBUG - Flask application has started
+2024-10-22 13:01:53,038 - DEBUG - Flask application has started
+2024-10-22 13:01:53,038 - INFO - Starting application
+2024-10-22 13:01:53,804 - DEBUG - Flask application has started
+2024-10-22 13:01:53,805 - INFO - Starting application
+2024-10-22 13:05:48,047 - DEBUG - Flask application has started
+2024-10-22 13:05:48,053 - INFO - Starting application
+2024-10-22 13:05:50,073 - DEBUG - Flask application has started
+2024-10-22 13:05:50,076 - INFO - Starting application
+2024-10-22 13:05:59,342 - DEBUG - Flask application has started
+2024-10-22 13:05:59,346 - INFO - Starting application
+2024-10-22 13:06:00,146 - DEBUG - Flask application has started
+2024-10-22 13:06:00,148 - INFO - Starting application
+2024-10-22 13:06:36,328 - DEBUG - Flask application has started
+2024-10-22 13:06:36,334 - INFO - Starting application
+2024-10-22 13:08:52,834 - DEBUG - Flask application has started
+2024-10-22 13:08:52,848 - INFO - Starting application
+2024-10-22 13:12:48,374 - DEBUG - Flask application has started
+2024-10-22 13:12:48,388 - INFO - Starting application
+2024-10-22 13:12:49,179 - DEBUG - Flask application has started
+2024-10-22 13:12:49,186 - INFO - Starting application
+2024-10-22 13:38:02,852 - DEBUG - Flask application has started
+2024-10-22 13:38:02,870 - INFO - Starting application
+2024-10-22 13:38:03,688 - DEBUG - Flask application has started
+2024-10-22 13:38:03,697 - INFO - Starting application
+2024-10-22 14:20:10,923 - DEBUG - Flask application has started
+2024-10-22 14:20:10,932 - INFO - Starting application
+2024-10-22 14:20:11,717 - DEBUG - Flask application has started
+2024-10-22 14:20:11,729 - INFO - Starting application
+2024-10-22 14:20:19,755 - INFO - Accessed admin page
+2024-10-22 14:21:04,867 - DEBUG - Flask application has started
+2024-10-22 14:21:04,873 - INFO - Starting application
+2024-10-22 14:35:44,629 - INFO - Accessed admin page
+2024-10-22 14:47:17,418 - Function index was called at 2024-10-22 14:47:17
+2024-10-22 14:58:02,225 - Function index was called at 2024-10-22 14:58:02
+2024-10-22 15:13:35,014 - Function index was called at 2024-10-22 15:13:35
+2024-10-22 15:21:17,845 - Function index was called at 2024-10-22 15:21:17
+2024-10-22 15:21:20,040 - Function about_website_creator was called at 2024-10-22 15:21:20
+2024-10-22 15:21:21,052 - Function index was called at 2024-10-22 15:21:21
+2024-10-22 15:21:21,739 - Function about_website was called at 2024-10-22 15:21:21
+2024-10-22 15:21:23,355 - Function index was called at 2024-10-22 15:21:23
+2024-10-22 15:21:24,314 - Function home was called at 2024-10-22 15:21:24
+2024-10-22 15:21:46,002 - Book "The Pillars of the Earth" added successfully for author "Ken Follett".
+2024-10-22 15:21:46,017 - list_books called
+2024-10-22 15:35:30,648 - Function index was called at 2024-10-22 15:35:30
+2024-10-22 15:35:31,898 - Function about_website_creator was called at 2024-10-22 15:35:31
+2024-10-22 15:35:32,598 - Function index was called at 2024-10-22 15:35:32
+2024-10-22 15:35:33,155 - Function about_website was called at 2024-10-22 15:35:33
+2024-10-22 15:35:34,449 - Function index was called at 2024-10-22 15:35:34
+2024-10-22 15:35:35,181 - Function home was called at 2024-10-22 15:35:35
+2024-10-22 15:35:46,262 - Book "The Pillars of the Earth" added successfully for author "Ken Follett".
+2024-10-22 15:35:46,279 - list_books called
+2024-10-22 15:41:04,190 - Function index was called at 2024-10-22 15:41:04
+2024-10-22 15:41:05,656 - Function home was called at 2024-10-22 15:41:05
+2024-10-22 15:41:21,776 - Book "The Pillars of the Earth" added successfully for author "Ken Follett".
+2024-10-22 15:41:21,788 - list_books called
+2024-10-22 15:42:04,188 - Book "The Pillars of the Earth" added successfully for author "Ken Follett".
+2024-10-22 15:42:04,204 - list_books called
+2024-10-22 15:42:14,208 - list_books called
+2024-10-22 15:42:14,210 - Searching books by category: Science Fiction
+2024-10-22 15:42:19,241 - list_books called
+2024-10-22 15:42:19,241 - Searching books by author: Isaac Asimov
+2024-10-22 15:42:22,239 - list_books called
+2024-10-22 15:42:22,241 - Showing all books
+2024-10-22 15:42:26,407 - list_books called
+2024-10-22 15:42:26,407 - Searching books by author: Leo Tolstoy
+2024-10-22 15:42:28,121 - list_books called
+2024-10-22 15:42:28,125 - Showing all books
+2024-10-22 15:42:32,683 - list_books called
+2024-10-22 15:42:32,685 - Searching books by year: 1934
+2024-10-22 15:42:37,438 - list_books called
+2024-10-22 15:42:37,438 - Showing all books
+2024-10-22 15:42:40,018 - Function home was called at 2024-10-22 15:42:40
+2024-10-22 15:42:42,648 - list_books called
+2024-10-22 15:42:57,251 - Function home was called at 2024-10-22 15:42:57
+2024-10-22 15:42:58,485 - Function admin was called at 2024-10-22 15:42:58
+2024-10-22 15:42:58,486 - Accessed admin page
+2024-10-22 15:43:06,859 - Function add_customer was called at 2024-10-22 15:43:06
+2024-10-22 15:43:06,860 - add_customer called
+2024-10-22 15:43:22,721 - Function add_customer was called at 2024-10-22 15:43:22
+2024-10-22 15:43:22,721 - add_customer called
+2024-10-22 15:43:22,745 - New customer added: 6
+2024-10-22 15:43:22,760 - Function admin was called at 2024-10-22 15:43:22
+2024-10-22 15:43:22,761 - Accessed admin page
+2024-10-22 15:43:27,631 - Function add_customer was called at 2024-10-22 15:43:27
+2024-10-22 15:43:27,632 - add_customer called
+2024-10-22 15:43:45,123 - Function add_customer was called at 2024-10-22 15:43:45
+2024-10-22 15:43:45,124 - add_customer called
+2024-10-22 15:43:45,143 - New customer added: 7
+2024-10-22 15:43:45,158 - Function admin was called at 2024-10-22 15:43:45
+2024-10-22 15:43:45,158 - Accessed admin page
+2024-10-22 15:43:58,601 - edit_customer called for customer id: 6
+2024-10-22 15:44:03,322 - edit_customer called for customer id: 6
+2024-10-22 15:44:03,334 - Customer updated: 6
+2024-10-22 15:44:03,349 - Function admin was called at 2024-10-22 15:44:03
+2024-10-22 15:44:03,350 - Accessed admin page
+2024-10-22 15:44:06,957 - Attempting to delete customer id: 6
+2024-10-22 15:44:06,988 - Function admin was called at 2024-10-22 15:44:06
+2024-10-22 15:44:06,988 - Accessed admin page
+2024-10-22 15:44:20,524 - Book ID 8 updated successfully.
+2024-10-22 15:44:20,529 - list_books called
+2024-10-22 15:44:27,745 - Function home was called at 2024-10-22 15:44:27
+2024-10-22 15:44:29,300 - Function admin was called at 2024-10-22 15:44:29
+2024-10-22 15:44:29,301 - Accessed admin page
+2024-10-22 15:44:52,492 - Book ID 8 deleted successfully.
+2024-10-22 15:44:52,505 - list_books called
+2024-10-22 15:44:57,538 - Function home was called at 2024-10-22 15:44:57
+2024-10-22 15:44:58,535 - Function admin was called at 2024-10-22 15:44:58
+2024-10-22 15:44:58,537 - Accessed admin page
+2024-10-22 15:45:38,497 - Book ID 7 deleted successfully.
+2024-10-22 15:45:38,514 - list_books called
+2024-10-22 15:46:12,880 - Function index was called at 2024-10-22 15:46:12
+2024-10-22 15:46:14,424 - Function home was called at 2024-10-22 15:46:14
+2024-10-22 15:46:15,299 - Function admin was called at 2024-10-22 15:46:15
+2024-10-22 15:46:15,300 - Accessed admin page
+2024-10-22 15:46:17,438 - Function add_customer was called at 2024-10-22 15:46:17
+2024-10-22 15:46:17,439 - add_customer called
+2024-10-22 15:46:52,854 - Function add_customer was called at 2024-10-22 15:46:52
+2024-10-22 15:46:52,854 - add_customer called
+2024-10-22 15:47:06,970 - Function add_customer was called at 2024-10-22 15:47:06
+2024-10-22 15:47:06,972 - add_customer called
+2024-10-22 15:47:07,007 - New customer added: 8
+2024-10-22 15:47:07,022 - Function admin was called at 2024-10-22 15:47:07
+2024-10-22 15:47:07,025 - Accessed admin page
+2024-10-22 15:49:21,015 - Book ID 6 deleted successfully.
+2024-10-22 15:49:21,024 - list_books called
+2024-10-22 15:49:28,112 - Function home was called at 2024-10-22 15:49:28
+2024-10-22 15:49:31,260 - Function admin was called at 2024-10-22 15:49:31
+2024-10-22 15:49:31,260 - Accessed admin page
+2024-10-22 15:49:39,630 - Function home was called at 2024-10-22 15:49:39
+2024-10-22 15:50:13,220 - list_books called
+2024-10-22 15:50:14,914 - Function admin was called at 2024-10-22 15:50:14
+2024-10-22 15:50:14,914 - Accessed admin page
+2024-10-22 15:50:17,729 - Function home was called at 2024-10-22 15:50:17
+2024-10-22 15:50:19,498 - Function admin was called at 2024-10-22 15:50:19
+2024-10-22 15:50:19,499 - Accessed admin page
+2024-10-22 15:50:36,074 - Function home was called at 2024-10-22 15:50:36
+2024-10-22 15:50:37,740 - Function admin was called at 2024-10-22 15:50:37
+2024-10-22 15:50:37,741 - Accessed admin page
+2024-10-22 15:51:28,667 - Function admin was called at 2024-10-22 15:51:28
+2024-10-22 15:51:28,669 - Accessed admin page
+2024-10-22 15:51:41,406 - Function admin was called at 2024-10-22 15:51:41
+2024-10-22 15:51:41,406 - Accessed admin page
+2024-10-22 15:51:57,079 - Loans retrieved: [<Loan 1>, <Loan 2>, <Loan 3>, <Loan 4>, <Loan 5>, <Loan 6>]
+2024-10-22 15:53:27,094 - Function admin was called at 2024-10-22 15:53:27
+2024-10-22 15:53:27,094 - Accessed admin page
+2024-10-22 15:54:12,649 - Function admin was called at 2024-10-22 15:54:12
+2024-10-22 15:54:12,652 - Accessed admin page
+2024-10-22 15:55:07,502 - Function admin was called at 2024-10-22 15:55:07
+2024-10-22 15:55:07,505 - Accessed admin page
+2024-10-22 15:56:22,561 - Function admin was called at 2024-10-22 15:56:22
+2024-10-22 15:56:22,561 - Accessed admin page
+2024-10-22 16:00:12,244 - Function admin was called at 2024-10-22 16:00:12
+2024-10-22 16:00:12,245 - Accessed admin page
+2024-10-22 16:00:26,199 - Function admin was called at 2024-10-22 16:00:26
+2024-10-22 16:00:26,201 - Accessed admin page
+2024-10-22 16:07:15,550 - Function index was called at 2024-10-22 16:07:15
+2024-10-22 16:07:18,155 - Function home was called at 2024-10-22 16:07:18
+2024-10-22 16:07:20,018 - Function admin was called at 2024-10-22 16:07:20
+2024-10-22 16:07:20,019 - Accessed admin page
+2024-10-22 16:07:32,952 - Function admin was called at 2024-10-22 16:07:32
+2024-10-22 16:07:32,953 - Accessed admin page
+2024-10-22 16:07:39,675 - Function admin was called at 2024-10-22 16:07:39
+2024-10-22 16:07:39,675 - Accessed admin page
+2024-10-22 16:07:45,348 - Function admin was called at 2024-10-22 16:07:45
+2024-10-22 16:07:45,348 - Accessed admin page
+2024-10-22 16:08:13,680 - Function admin was called at 2024-10-22 16:08:13
+2024-10-22 16:08:13,680 - Accessed admin page
+2024-10-22 16:23:39,373 - Function index was called at 2024-10-22 16:23:39
+2024-10-22 16:23:40,692 - Function home was called at 2024-10-22 16:23:40
+2024-10-22 16:23:42,282 - Function admin was called at 2024-10-22 16:23:42
+2024-10-22 16:23:42,284 - Accessed admin page
+2024-10-22 16:24:47,246 - Book ID 1 deleted successfully.
+2024-10-22 16:24:47,269 - list_books called
+2024-10-22 16:27:09,580 - Function admin was called at 2024-10-22 16:27:09
+2024-10-22 16:27:09,580 - Accessed admin page
+2024-10-22 16:27:10,687 - Function admin was called at 2024-10-22 16:27:10
+2024-10-22 16:27:10,687 - Accessed admin page
