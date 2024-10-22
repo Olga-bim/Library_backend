@@ -16,7 +16,7 @@ print(template_folder_path)  # Проверка пути
 
 import unittest
 
-app = Flask(__name__, template_folder='../frontend/templates')
+app = Flask(__name__, template_folder='../frontend')
 
 
 app.secret_key = '\xde1\xae\\\xc0\x02\xad\xde\xadT\xbf\xf0\x89L\x0b\x9eq\xff\xa2\x07\xb4h\x02'  
